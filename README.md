@@ -149,3 +149,12 @@ And thank you to all our backers! 🙏
 
 Element Plus is open source software licensed as
 [MIT](https://github.com/element-plus/element-plus/blob/master/LICENSE).
+
+<!-- fork-disclosure: CHENJIAMIAN -->
+## Fork Notice / 分叉说明
+
+- **Upstream / 上游**: [element-plus/element-plus](https://github.com/element-plus/element-plus)
+- **Changes in this fork / 本 fork 改动**:
+  - English: This default branch has no functional fork-specific changes. The only intentional difference is this bilingual disclosure.
+  - 中文：该默认分支目前没有功能性的 fork 独有改动；唯一的刻意差异是本双语透明说明。
+- **Upstream state / 上游状态**: This branch may be behind upstream. Review the current [comparison](https://github.com/CHENJIAMIAN/element-plus/compare/dev...element-plus/element-plus:dev) before relying on it. / 此分支可能落后于上游；使用前请查看当前[对比](https://github.com/CHENJIAMIAN/element-plus/compare/dev...element-plus/element-plus:dev)。
