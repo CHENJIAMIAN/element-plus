@@ -1,3 +1,12 @@
+<!-- codex-github-rules:bilingual-summary -->
+> **中文简介**：由 Element 团队开发的 Vue 3 UI 组件库
+
+> **English summary**: A Vue 3 UI component library made by the Element team
+
+> **Fork 说明 / Fork note**：这是上游项目的公开 fork；下方保留并延续上游文档。
+
+---
+
 <p align="center">
   <img width="300px" src="https://user-images.githubusercontent.com/10731096/95823103-9ce15780-0d5f-11eb-8010-1bd1b5910d4f.png">
 </p>
